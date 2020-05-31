@@ -7,9 +7,9 @@ This document is aim to explain about exploratory data analysis using python. Ex
 1. [x] Exploratory data analysis using univariate Part I (simple)
 2. [x] Exploratory data analysis using univariate Part II (simple)
 3. [x] Exploratory data analysis using multivariate
+4. [x] Outlier detection
 4. [x] Exploratory data analysis of missing value handler
 5. [ ] Exploratory data analysis categorical data -- To be continued
-6. [ ] Outlier Handling
 7. [ ] Data reduction
 8. [ ] Numerical data transformation/normalization
 
