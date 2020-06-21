@@ -3,7 +3,15 @@
 This document is aim to explain about exploratory data analysis using python. Exploratory data analysis is an activity to check fundamental of data description to ensure that our data fit to the next round.
 
 
-### Content
+## Content
+
+### Pandas Basic
+1. [x] Pandas Utilization
+2. [ ] Statistic Descriptive 
+3. [ ] Simple Visualization 
+
+
+### EDA Visualization
 1. [x] Exploratory data analysis using univariate Part I (simple)
 2. [x] Exploratory data analysis using univariate Part II (simple)
 3. [x] Exploratory data analysis using multivariate
@@ -12,7 +20,6 @@ This document is aim to explain about exploratory data analysis using python. Ex
 5. [ ] Exploratory data analysis categorical data -- To be continued
 7. [ ] Data reduction
 8. [ ] Numerical data transformation/normalization
-
 
 
 ### Exploratory Analysis for Mining
